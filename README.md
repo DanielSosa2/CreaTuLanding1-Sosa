@@ -26,12 +26,3 @@ Magic World es un bazar online donde encontrarás lo inimaginable.
 ```bash
 npm install
 npm run dev
-
----
-
-# 🟢 Después guardá y subí:
-
-```bash
-git add .
-git commit -m "Actualizo README con info del proyecto"
-git push origin main --force
